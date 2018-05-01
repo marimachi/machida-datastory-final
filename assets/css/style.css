@@ -3,6 +3,8 @@ body{
   display: grid;
   grid-gap:10px;
   padding:10px;
+  background: rgb(65,220,222);
+    background: linear-gradient(0deg, rgba(65,220,222,1) 0%, rgba(155,228,168,1) 50%, rgba(255,139,234,1) 100%);
 }
 
 article {
