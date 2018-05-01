@@ -4,13 +4,6 @@ body{
   grid-gap:10px;
   padding:10px;
 }
-<style>
-#grad1 {
-    height: 200px;
-    background: red; 
-    background: linear-gradient(red, yellow); /* Standard syntax (must be last) */
-}
-</style>
 
 article {
   display: grid;
@@ -20,7 +13,6 @@ article {
 }
 
 section {
-  background-color: #b3f0ff;
   border-radius: 25px;
   padding: 10px;
   font-family: serif;
@@ -28,12 +20,11 @@ section {
 }
 
 h1{
-  background-color: white;
   border-radius: 20px;
   text-align: center;
   padding: 10px;
   font-family: serif;
-  color: #e67300;
+  color: white;
   font-style: oblique;
 
 }
