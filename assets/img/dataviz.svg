@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="machida_dataviz_finstafeels.svg"
+   sodipodi:docname="dataviz.svg"
    inkscape:export-filename="/Users/mariana.machida/machida_dataviz_finstafeels.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
@@ -43,7 +43,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="535.7811"
+     inkscape:cx="307.48663"
      inkscape:cy="380.10161"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -64,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -81,8 +81,8 @@
        x="-43.297661"
        y="75.700836" />
     <rect
-       y="95.441185"
-       x="8.5203686"
+       y="79.405014"
+       x="-25.690132"
        height="71.093697"
        width="148.06732"
        id="rect5000"
@@ -124,8 +124,9 @@
            x="421.42856"
            y="687.98651"
            style="-inkscape-font-specification:serif;font-family:serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
-         id="flowPara83"></flowPara></flowRoot>    <g
-       id="g176">
+         id="flowPara83" /></flowRoot>    <g
+       id="g176"
+       transform="translate(-18.174328,3.7417732)">
       <g
          id="g242"
          transform="translate(1.6036172,4.8108515)">
@@ -178,7 +179,7 @@
                transform="rotate(31.197468,125.33271,267.42914)" />
             <text
                xml:space="preserve"
-               style="font-style:normal;font-weight:normal;font-size:6.59945011px;line-height:1.25;font-family:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16498625;-inkscape-font-specification:serif;font-stretch:normal;font-variant:normal;"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.59945011px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16498625"
                x="167.51503"
                y="228.01323"
                id="text87"
@@ -187,7 +188,7 @@
                  id="tspan85"
                  x="167.51503"
                  y="228.01323"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.16498625;">Amused</tspan></text>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.16498625">Amused</tspan></text>
           </g>
         </g>
         <g
@@ -280,7 +281,7 @@
                inkscape:transform-center-y="13.93652"
                inkscape:transform-center-x="19.70638"
                xml:space="preserve"
-               style="font-style:normal;font-weight:normal;font-size:6.59945011px;line-height:1.25;font-family:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16498625;-inkscape-font-specification:serif;font-stretch:normal;font-variant:normal;"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.59945011px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16498625"
                x="-75.831635"
                y="261.19113"
                id="text95"
@@ -289,7 +290,7 @@
                  id="tspan93"
                  x="-75.831635"
                  y="261.19113"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.16498625;">Sad</tspan></text>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.16498625">Sad</tspan></text>
           </g>
         </g>
         <g
@@ -323,11 +324,11 @@
                id="text99"
                y="200.1657"
                x="134.12495"
-               style="font-style:normal;font-weight:normal;font-size:5.51051378px;line-height:1.25;font-family:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13776284;-inkscape-font-specification:serif;font-stretch:normal;font-variant:normal;"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.51051378px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13776284"
                xml:space="preserve"
                inkscape:transform-center-x="19.240502"
                inkscape:transform-center-y="-6.0327419"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.13776284;"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.13776284"
                  y="200.1657"
                  x="134.12495"
                  id="tspan97"
@@ -357,17 +358,17 @@
            id="text279"
            y="193.60132"
            x="-185.27344"
-           style="font-style:normal;font-weight:normal;font-size:3.45204329px;line-height:1.25;font-family:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08630108;-inkscape-font-specification:serif;font-stretch:normal;font-variant:normal;"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.45204329px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08630108"
            xml:space="preserve"
            inkscape:transform-center-x="11.945991"
            inkscape:transform-center-y="-4.1006371"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.08630108;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.08630108"
              y="193.60132"
              x="-185.27344"
              id="tspan275"
              sodipodi:role="line">Stressed</tspan><tspan
              id="tspan277"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.08630108;"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.08630108"
              y="197.91637"
              x="-185.27344"
              sodipodi:role="line" /></text>
@@ -409,7 +410,7 @@
                      inkscape:transform-center-y="4.1370461"
                      inkscape:transform-center-x="12.030706"
                      xml:space="preserve"
-                     style="font-style:normal;font-weight:normal;font-size:3.47718954px;line-height:1.25;font-family:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08692974;-inkscape-font-specification:serif;font-stretch:normal;font-variant:normal;"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.47718954px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.08692974"
                      x="117.47452"
                      y="250.00923"
                      id="text267"
@@ -418,7 +419,7 @@
                        id="tspan265"
                        x="117.47452"
                        y="250.00923"
-                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.08692974;">Insecure</tspan></text>
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.08692974">Insecure</tspan></text>
                 </g>
               </g>
             </g>
@@ -438,8 +439,9 @@
            x="84.852814"
            y="86.594025"
            style="-inkscape-font-specification:serif;font-family:serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
-         id="flowPara343"></flowPara></flowRoot>    <g
-       id="g5147">
+         id="flowPara343" /></flowRoot>    <g
+       id="g5147"
+       transform="translate(-16.570711,3.2072344)">
       <g
          transform="translate(4.2333334,-2.6458334)"
          id="g251">
@@ -656,7 +658,7 @@
            x="86.873116"
            y="94.675247"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif" /></flowRegion><flowPara
-         id="flowPara383"></flowPara></flowRoot>    <text
+         id="flowPara383" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#214478;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="8.5418777"
@@ -672,13 +674,13 @@
        id="rect408"
        width="148.06732"
        height="71.093697"
-       x="5.5065436"
-       y="90.662567" />
+       x="-31.91119"
+       y="69.815544" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot410"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,4.8162238,93.86305)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-29.928815,76.757801)"><flowRegion
          id="flowRegion412"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:serif;-inkscape-font-specification:serif"><rect
            id="rect414"
@@ -703,7 +705,7 @@
        xml:space="preserve"
        id="flowRoot5077"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-154.62684,-63.809855)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-152.48869,-88.39865)"><flowRegion
          id="flowRegion5079"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;fill:#000000"><rect
            id="rect5081"
@@ -728,27 +730,27 @@
            x="1416.2339"
            y="751.27441"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif" /></flowRegion><flowPara
-         id="flowPara5093"> </flowPara></flowRoot>    <text
+         id="flowPara5093" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="25.512817"
-       y="145.12106"
+       x="-15.646688"
+       y="121.60134"
        id="text5101"><tspan
          sodipodi:role="line"
          id="tspan5099"
-         x="25.512817"
-         y="145.12106"
+         x="-15.646688"
+         y="121.60134"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.26458332">Size - correlates to frequency </tspan><tspan
          sodipodi:role="line"
-         x="25.512817"
-         y="158.35023"
+         x="-15.646688"
+         y="134.83051"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.26458332"
          id="tspan5103">on a scale of 1(smaller)-6(larger)</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5107"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-5.3453905,110.51972)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-32.072343,92.345395)"><flowRegion
          id="flowRegion5109"><rect
            id="rect5111"
            width="252.53813"
@@ -766,5 +768,5 @@
            height="955.60431"
            x="628.31488"
            y="-117.45679" /></flowRegion><flowPara
-         id="flowPara5121"></flowPara></flowRoot>  </g>
+         id="flowPara5121" /></flowRoot>  </g>
 </svg>
